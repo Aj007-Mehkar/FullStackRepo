@@ -1,10 +1,10 @@
-package com.aj.service;
-
+package com.aj;
 
 public class App 
 {
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        
     }
 }

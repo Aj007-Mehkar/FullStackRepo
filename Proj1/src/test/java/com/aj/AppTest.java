@@ -1,4 +1,4 @@
-package com.aj.service;
+package com.aj;
 
 import static org.junit.Assert.assertTrue;
 
